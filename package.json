@@ -1,0 +1,22 @@
+{
+  "name": "todolist",
+  "version": "1.0.0",
+  "description": "Simple Todo List by MarcinK50",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://MarcinK50:5123marcin@github.com/MarcinK50/TodoList.git"
+  },
+  "author": "Marcin \"MarcinK50\" Kowalicki",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MarcinK50/TodoList/issues"
+  },
+  "homepage": "https://github.com/MarcinK50/TodoList#readme",
+  "dependencies": {
+    "rome": "^10.0.4-beta"
+  }
+}
